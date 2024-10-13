@@ -1,0 +1,14 @@
+************************************
+Ho va ten: Nguyen Van A
+Diem mon Toan:        8.2
+Diem mon Ly:          9.1
+Diem mon Hoa:           7
+Diem mon Van:           6
+Diem trung binh:    7.575
+************************************
+Ho va ten: Nguyen Thi B
+Diem mon Toan:        2.2
+Diem mon Ly:          5.6
+Diem mon Hoa:         6.5
+Diem mon Van:           9
+Diem trung binh:    5.825
